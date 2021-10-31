@@ -1,0 +1,28 @@
+.inactive-search-indicator{
+    display: none;
+}
+
+#container {
+    text-align: center;
+    padding: 25px;
+}
+
+#posts {
+    visibility: hidden;
+    border: 1px solid black;
+    margin: 25px;
+    padding: 10px;
+    font-style: normal;
+    display: inline-block;
+    background: #ECF3FF;
+}
+
+#pagination {
+    visibility: hidden;
+}
+
+.thumbnail, .url, .title, .user, .votes, .date {
+    margin: 5px 0 5px;
+    text-align: left;
+    word-break: break-all;
+}
