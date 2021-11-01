@@ -1,4 +1,14 @@
-Run instructions:
+Prerequisites:
+  1. Node.js:
+  https://nodejs.org/en/download/
+  (Reboot your computer!)
 
-> npm install
-> npm start
+  2. NPM:
+  > npm install -g npm
+
+  3. Express:
+  > npm install express --save
+
+Run instructions:
+  > npm install
+  > npm start
